@@ -1,3 +1,28 @@
 body {
     background-color:goldenrod; 
 }
+
+h1 {
+    text-align: center;
+}
+
+.allCereal {
+    /* background-color: aqua; */
+    color: blue;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    /* margin-bottom: 40px; */
+    
+}
+
+img {
+    width: 25%;
+    height: 25%;
+    margin-bottom: 80px;
+    /* margin-top: 80px; */
+    /* margin-right: 25%; */
+    /* float: left; */
+}
